@@ -1,0 +1,75 @@
+.box1 {
+    margin: auto;
+    margin-top: 70px;
+    background-color: aquamarine;
+    width: 450px;
+    padding: 15px;
+}
+
+#insert {
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#NameInput {
+    width: 75%;
+    margin: 47px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    box-sizing: border-box;
+}
+
+#SurnameInput {
+    width: 75%;
+    margin: 47px;
+    margin-top: 3px;
+    margin-bottom: 3px; 
+    box-sizing: border-box;
+}
+
+#DateInput {
+    width: 75%;
+    margin: 47px;
+    margin-top: 3px;
+    margin-bottom: 3px; 
+    box-sizing: border-box;
+}
+
+#Gender {
+    width: 75%;
+    margin: 47px;
+    margin-top: 3px;
+    margin-bottom: 3px; 
+    box-sizing: border-box;
+}
+
+#submit{
+    width: 55%;
+    margin: 20%;
+    margin-top: 3px;
+    margin-bottom: 1px; 
+    box-sizing: border-box;
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+}
+
+.box2{
+    width: 100%;
+    margin-top: 10px;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: mediumaquamarine;
+    border: 1px solid black;
+    
+}
+td {
+    text-align: center;
+    border: 1px solid black;
+}
