@@ -13,9 +13,9 @@ function addRow() {
         choose = langauge.value;
         console.log(choose);
 
-    // if else
 
-    if (NameInput.length >= 0){
+
+    if (Name.length <= 0 || Surname.length <= 0){
         window.alert("missing information");
     }else{
 
